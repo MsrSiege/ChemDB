@@ -33,7 +33,7 @@ I didn't test the tool on other platforms. If you are familiar with GitHub feel 
 ***1. Choose one or more files to process.*** <br>
 Use the `File Dialog` button to choose one or more files. The path to the folder that contains the selected file(s) will be shown in the `Folder Path` box. Enable `All Files` to use all files in the folder path instead of the selected ones.
 
-> The tool looks for the keywords `CAS` and `Name` in the column headers of the selected files. To accept a file as compatible, at least one of these keywords must be present. If the selected file contains more than one column with one of these keywords, it will get rejected.
+> The tool looks for the keywords `CAS` and `Name` in the column headers of the selected files. To accept a file as compatible, at least one of these keywords must be present. If the selected file contains more than one column with any of these keywords (i. e. "CAS" and "cas no"), it will get rejected.
 
 > The tool currently supports `.xlsx`, `.xls` and `.csv` files.
 
