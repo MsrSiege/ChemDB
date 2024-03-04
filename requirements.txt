@@ -1,0 +1,9 @@
+# auto-py-to-exe    # Exe generator
+customtkinter       # Tkinter GUI helper
+openpyxl            # Pandas Excel engine
+pandas              # Python Data Analysis Library
+pillow              # Python Imaging Library
+pubchempy           # PubChem queries
+pyarrow             # Pandas needs this
+requests            # Web requests
+selenium            # Selenium webdriver
