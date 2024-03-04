@@ -298,10 +298,8 @@ def AnalyseFiles(file_paths: list[Path]):
 
 # ++---------------------------------------------------------------------------------------------------------------------++#
 # ++ DATE        DEV     VER     ACTIONS
-
-# ++ 24-03-04    fJ      TIMER   MultiThr8 | Wall time:  97.9698 s, CPU time: 25.4531 s -> 1.633 s | 0,424 s per item
-
-
+# ++ 24-03-04    fJ      TIMER   MultiThr8 | Wall time: 124.8130 s, CPU time: 56.1094 s -> 2.080 s | 0,935 s per item
+# ++ 24-03-04    fJ      TIMER   MultiThr6 | Wall time: 118.2340 s, CPU time: 50.2500 s -> 1.971 s | 0,838 s per item
 # ++ 24-03-04    fJ      TIMER   SingleThr | Wall time: 395.4463 s, CPU time: 38.6875 s -> 6.591 s | 0,645 s per item
 # ++ 24-03-04    fJ      1.0     Dev tests: passed ... works as intended
 # ++ 24-02-27    fJ      TIMER   MultiThr6 | Wall time:  97.9698 s, CPU time: 25.4531 s -> 1.633 s | 0,424 s per item

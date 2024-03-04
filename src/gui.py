@@ -859,7 +859,7 @@ ChbRunThreaded = fctCtk.CtkCheckbox(
     Widget={
         "master": FrmThreading,
         "base_size": fctCtk.STD_SIZE - 2,
-        "text": "Multithreaded Processing, max. Threads:",
+        "text": "Multi-threaded Processing, max. Threads:",
         "variable": BlvRunThreaded,
         "font_bold": True,
     },
