@@ -14,9 +14,10 @@ To the best of my knowledge, there is currently no officially by European author
 
 ## ⚙️ Installation
 
-I've developed this tool for MS Windows and will provide a precompiled version for MS Windows to run as-is. I didn't test the tool on other platforms.
+I've developed this tool for MS Windows and will provide [precompiled versions](https://github.com/MsrSiege/ChemDB/releases/latest) for MS Windows to run as-is. You can download it here. 
+> Choose `ChemDB.VERSION.zip` if you have chrome installed. If not, choose `ChemDB.VERSION_chrome.zip`!
 
-If you are familiar with GitHub feel free to clone the repostitory and use your IDE of choice.
+I didn't test the tool on other platforms. If you are familiar with GitHub feel free to clone the repostitory and use your IDE of choice.
 
 ## 👋 Usage
 
